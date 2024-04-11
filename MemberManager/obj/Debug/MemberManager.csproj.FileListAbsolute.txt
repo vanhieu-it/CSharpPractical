@@ -1,0 +1,7 @@
+C:\Users\Hieu\Desktop\CSharpToSave\MemberManager\bin\Debug\MemberManager.exe.config
+C:\Users\Hieu\Desktop\CSharpToSave\MemberManager\bin\Debug\MemberManager.exe
+C:\Users\Hieu\Desktop\CSharpToSave\MemberManager\bin\Debug\MemberManager.pdb
+C:\Users\Hieu\Desktop\CSharpToSave\MemberManager\obj\Debug\MemberManager.csproj.AssemblyReference.cache
+C:\Users\Hieu\Desktop\CSharpToSave\MemberManager\obj\Debug\MemberManager.csproj.CoreCompileInputs.cache
+C:\Users\Hieu\Desktop\CSharpToSave\MemberManager\obj\Debug\MemberManager.exe
+C:\Users\Hieu\Desktop\CSharpToSave\MemberManager\obj\Debug\MemberManager.pdb

@@ -1,0 +1,76 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hieu\\Desktop\\CSharpToSave\\MemberManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D489C5-F3C1-4A6A-B892-9A66D8803960}|MemberManager.csproj|c:\\users\\hieu\\desktop\\csharptosave\\membermanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D489C5-F3C1-4A6A-B892-9A66D8803960}|MemberManager.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9D489C5-F3C1-4A6A-B892-9A66D8803960}|MemberManager.csproj|c:\\users\\hieu\\desktop\\csharptosave\\membermanager\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9D489C5-F3C1-4A6A-B892-9A66D8803960}|MemberManager.csproj|solutionrelative:member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 339,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 61,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\CSharpToSave\\MemberManager\\Member.cs",
+              "RelativeDocumentMoniker": "Member.cs",
+              "ToolTip": "C:\\Users\\Hieu\\Desktop\\CSharpToSave\\MemberManager\\Member.cs",
+              "RelativeToolTip": "Member.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAkwCIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T06:16:31.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\CSharpToSave\\MemberManager\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Hieu\\Desktop\\CSharpToSave\\MemberManager\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAkwEIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T06:15:36.894Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
