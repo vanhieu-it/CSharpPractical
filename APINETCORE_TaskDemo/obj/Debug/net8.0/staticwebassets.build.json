@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DfZR9EOx92nSS6VOXW1pBkyVEBR5D6lHGTdzqCwZc54=",
+  "Source": "APINETCORE_TaskDemo",
+  "BasePath": "_content/APINETCORE_TaskDemo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

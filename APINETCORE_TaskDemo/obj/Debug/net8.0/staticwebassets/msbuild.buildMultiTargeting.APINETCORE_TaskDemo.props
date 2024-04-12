@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\APINETCORE_TaskDemo.props" />
+</Project>
