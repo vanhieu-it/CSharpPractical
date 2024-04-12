@@ -1,0 +1,7 @@
+C:\Users\Hieu\Desktop\CSharpToSave\Asynchronous\bin\Debug\Asynchronous.exe.config
+C:\Users\Hieu\Desktop\CSharpToSave\Asynchronous\bin\Debug\Asynchronous.exe
+C:\Users\Hieu\Desktop\CSharpToSave\Asynchronous\bin\Debug\Asynchronous.pdb
+C:\Users\Hieu\Desktop\CSharpToSave\Asynchronous\obj\Debug\Asynchronous.csproj.AssemblyReference.cache
+C:\Users\Hieu\Desktop\CSharpToSave\Asynchronous\obj\Debug\Asynchronous.csproj.CoreCompileInputs.cache
+C:\Users\Hieu\Desktop\CSharpToSave\Asynchronous\obj\Debug\Asynchronous.exe
+C:\Users\Hieu\Desktop\CSharpToSave\Asynchronous\obj\Debug\Asynchronous.pdb
