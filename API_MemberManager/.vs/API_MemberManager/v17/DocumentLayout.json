@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hieu\\Desktop\\CSharpToSave\\API_MemberManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E94D31-144B-4820-84C5-0D9B8B79BCEF}|API_MemberManager.csproj|c:\\users\\hieu\\desktop\\csharptosave\\api_membermanager\\services\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E94D31-144B-4820-84C5-0D9B8B79BCEF}|API_MemberManager.csproj|solutionrelative:services\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E94D31-144B-4820-84C5-0D9B8B79BCEF}|API_MemberManager.csproj|c:\\users\\hieu\\desktop\\csharptosave\\api_membermanager\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E94D31-144B-4820-84C5-0D9B8B79BCEF}|API_MemberManager.csproj|solutionrelative:controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E94D31-144B-4820-84C5-0D9B8B79BCEF}|API_MemberManager.csproj|c:\\users\\hieu\\desktop\\csharptosave\\api_membermanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E94D31-144B-4820-84C5-0D9B8B79BCEF}|API_MemberManager.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E94D31-144B-4820-84C5-0D9B8B79BCEF}|API_MemberManager.csproj|c:\\users\\hieu\\desktop\\csharptosave\\api_membermanager\\services\\imemberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E94D31-144B-4820-84C5-0D9B8B79BCEF}|API_MemberManager.csproj|solutionrelative:services\\imemberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2E94D31-144B-4820-84C5-0D9B8B79BCEF}|API_MemberManager.csproj|c:\\users\\hieu\\desktop\\csharptosave\\api_membermanager\\models\\memberrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2E94D31-144B-4820-84C5-0D9B8B79BCEF}|API_MemberManager.csproj|solutionrelative:models\\memberrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MemberController.cs",
+              "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\CSharpToSave\\API_MemberManager\\Controllers\\MemberController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MemberController.cs",
+              "ToolTip": "C:\\Users\\Hieu\\Desktop\\CSharpToSave\\API_MemberManager\\Controllers\\MemberController.cs",
+              "RelativeToolTip": "Controllers\\MemberController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T04:00:17.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\CSharpToSave\\API_MemberManager\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Hieu\\Desktop\\CSharpToSave\\API_MemberManager\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T03:57:13.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MemberService.cs",
+              "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\CSharpToSave\\API_MemberManager\\Services\\MemberService.cs",
+              "RelativeDocumentMoniker": "Services\\MemberService.cs",
+              "ToolTip": "C:\\Users\\Hieu\\Desktop\\CSharpToSave\\API_MemberManager\\Services\\MemberService.cs",
+              "RelativeToolTip": "Services\\MemberService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T03:55:11.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IMemberService.cs",
+              "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\CSharpToSave\\API_MemberManager\\Services\\IMemberService.cs",
+              "RelativeDocumentMoniker": "Services\\IMemberService.cs",
+              "ToolTip": "C:\\Users\\Hieu\\Desktop\\CSharpToSave\\API_MemberManager\\Services\\IMemberService.cs",
+              "RelativeToolTip": "Services\\IMemberService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T03:51:26.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MemberRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\CSharpToSave\\API_MemberManager\\Models\\MemberRequestModel.cs",
+              "RelativeDocumentMoniker": "Models\\MemberRequestModel.cs",
+              "ToolTip": "C:\\Users\\Hieu\\Desktop\\CSharpToSave\\API_MemberManager\\Models\\MemberRequestModel.cs",
+              "RelativeToolTip": "Models\\MemberRequestModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T03:46:48.284Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1129,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
