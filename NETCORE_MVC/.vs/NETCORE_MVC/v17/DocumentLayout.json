@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hieu\\Desktop\\CSharpToSave\\NETCORE_MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1598C227-64FF-4869-BA1E-AC8FF0CB2150}|NETCORE_MVC.csproj|c:\\users\\hieu\\desktop\\csharptosave\\netcore_mvc\\services\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1598C227-64FF-4869-BA1E-AC8FF0CB2150}|NETCORE_MVC.csproj|solutionrelative:services\\memberservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1598C227-64FF-4869-BA1E-AC8FF0CB2150}|NETCORE_MVC.csproj|c:\\users\\hieu\\desktop\\csharptosave\\netcore_mvc\\services\\iservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1598C227-64FF-4869-BA1E-AC8FF0CB2150}|NETCORE_MVC.csproj|solutionrelative:services\\iservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1598C227-64FF-4869-BA1E-AC8FF0CB2150}|NETCORE_MVC.csproj|c:\\users\\hieu\\desktop\\csharptosave\\netcore_mvc\\dataaccess\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1598C227-64FF-4869-BA1E-AC8FF0CB2150}|NETCORE_MVC.csproj|solutionrelative:dataaccess\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1598C227-64FF-4869-BA1E-AC8FF0CB2150}|NETCORE_MVC.csproj|c:\\users\\hieu\\desktop\\csharptosave\\netcore_mvc\\netcore_mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1598C227-64FF-4869-BA1E-AC8FF0CB2150}|NETCORE_MVC.csproj|solutionrelative:netcore_mvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1598C227-64FF-4869-BA1E-AC8FF0CB2150}|NETCORE_MVC.csproj|c:\\users\\hieu\\desktop\\csharptosave\\netcore_mvc\\services\\memberviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1598C227-64FF-4869-BA1E-AC8FF0CB2150}|NETCORE_MVC.csproj|solutionrelative:services\\memberviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1598C227-64FF-4869-BA1E-AC8FF0CB2150}|NETCORE_MVC.csproj|c:\\users\\hieu\\desktop\\csharptosave\\netcore_mvc\\services\\memberdetailsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1598C227-64FF-4869-BA1E-AC8FF0CB2150}|NETCORE_MVC.csproj|solutionrelative:services\\memberdetailsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1598C227-64FF-4869-BA1E-AC8FF0CB2150}|NETCORE_MVC.csproj|c:\\users\\hieu\\desktop\\csharptosave\\netcore_mvc\\services\\editmemberviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1598C227-64FF-4869-BA1E-AC8FF0CB2150}|NETCORE_MVC.csproj|solutionrelative:services\\editmemberviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1598C227-64FF-4869-BA1E-AC8FF0CB2150}|NETCORE_MVC.csproj|c:\\users\\hieu\\desktop\\csharptosave\\netcore_mvc\\services\\creatememberrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1598C227-64FF-4869-BA1E-AC8FF0CB2150}|NETCORE_MVC.csproj|solutionrelative:services\\creatememberrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1598C227-64FF-4869-BA1E-AC8FF0CB2150}|NETCORE_MVC.csproj|c:\\users\\hieu\\desktop\\csharptosave\\netcore_mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1598C227-64FF-4869-BA1E-AC8FF0CB2150}|NETCORE_MVC.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1598C227-64FF-4869-BA1E-AC8FF0CB2150}|NETCORE_MVC.csproj|c:\\users\\hieu\\desktop\\csharptosave\\netcore_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1598C227-64FF-4869-BA1E-AC8FF0CB2150}|NETCORE_MVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1598C227-64FF-4869-BA1E-AC8FF0CB2150}|NETCORE_MVC.csproj|c:\\users\\hieu\\desktop\\csharptosave\\netcore_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1598C227-64FF-4869-BA1E-AC8FF0CB2150}|NETCORE_MVC.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MemberService.cs",
+              "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\CSharpToSave\\NETCORE_MVC\\Services\\MemberService.cs",
+              "RelativeDocumentMoniker": "Services\\MemberService.cs",
+              "ToolTip": "C:\\Users\\Hieu\\Desktop\\CSharpToSave\\NETCORE_MVC\\Services\\MemberService.cs",
+              "RelativeToolTip": "Services\\MemberService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:04:51.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\CSharpToSave\\NETCORE_MVC\\DataAccess\\Member.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Member.cs",
+              "ToolTip": "C:\\Users\\Hieu\\Desktop\\CSharpToSave\\NETCORE_MVC\\DataAccess\\Member.cs",
+              "RelativeToolTip": "DataAccess\\Member.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA7wAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:03:45.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IServices.cs",
+              "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\CSharpToSave\\NETCORE_MVC\\Services\\IServices.cs",
+              "RelativeDocumentMoniker": "Services\\IServices.cs",
+              "ToolTip": "C:\\Users\\Hieu\\Desktop\\CSharpToSave\\NETCORE_MVC\\Services\\IServices.cs",
+              "RelativeToolTip": "Services\\IServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:01:50.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MemberViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\CSharpToSave\\NETCORE_MVC\\Services\\MemberViewModel.cs",
+              "RelativeDocumentMoniker": "Services\\MemberViewModel.cs",
+              "ToolTip": "C:\\Users\\Hieu\\Desktop\\CSharpToSave\\NETCORE_MVC\\Services\\MemberViewModel.cs",
+              "RelativeToolTip": "Services\\MemberViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:01:22.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MemberDetailsModel.cs",
+              "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\CSharpToSave\\NETCORE_MVC\\Services\\MemberDetailsModel.cs",
+              "RelativeDocumentMoniker": "Services\\MemberDetailsModel.cs",
+              "ToolTip": "C:\\Users\\Hieu\\Desktop\\CSharpToSave\\NETCORE_MVC\\Services\\MemberDetailsModel.cs",
+              "RelativeToolTip": "Services\\MemberDetailsModel.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAcwBUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:00:50.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EditMemberViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\CSharpToSave\\NETCORE_MVC\\Services\\EditMemberViewModel.cs",
+              "RelativeDocumentMoniker": "Services\\EditMemberViewModel.cs",
+              "ToolTip": "C:\\Users\\Hieu\\Desktop\\CSharpToSave\\NETCORE_MVC\\Services\\EditMemberViewModel.cs",
+              "RelativeToolTip": "Services\\EditMemberViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T07:00:11.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateMemberRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\CSharpToSave\\NETCORE_MVC\\Services\\CreateMemberRequest.cs",
+              "RelativeDocumentMoniker": "Services\\CreateMemberRequest.cs",
+              "ToolTip": "C:\\Users\\Hieu\\Desktop\\CSharpToSave\\NETCORE_MVC\\Services\\CreateMemberRequest.cs",
+              "RelativeToolTip": "Services\\CreateMemberRequest.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAYwBQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T06:53:25.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NETCORE_MVC",
+              "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\CSharpToSave\\NETCORE_MVC\\NETCORE_MVC.csproj",
+              "RelativeDocumentMoniker": "NETCORE_MVC.csproj",
+              "ToolTip": "C:\\Users\\Hieu\\Desktop\\CSharpToSave\\NETCORE_MVC\\NETCORE_MVC.csproj*",
+              "RelativeToolTip": "NETCORE_MVC.csproj*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-12T06:52:51.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\CSharpToSave\\NETCORE_MVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Hieu\\Desktop\\CSharpToSave\\NETCORE_MVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T06:51:50.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\CSharpToSave\\NETCORE_MVC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Hieu\\Desktop\\CSharpToSave\\NETCORE_MVC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T04:22:36.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\CSharpToSave\\NETCORE_MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Hieu\\Desktop\\CSharpToSave\\NETCORE_MVC\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-12T04:22:34.862Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1129,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{be4d7042-ba3f-11d2-840e-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
