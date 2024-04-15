@@ -8,7 +8,7 @@ namespace NETCORE_MVC.Services
         [DisplayName("First Name")]
         [Required(ErrorMessage = "First Name is required")]
         [MaxLength(10)]
-        public string? FirtName { get; set; }
+        public string? FirstName { get; set; }
 
         [DisplayName("Last Name")]
         public string? LastName { get; set; }

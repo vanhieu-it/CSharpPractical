@@ -2,7 +2,7 @@
 
 namespace NETCORE_MVC.Services
 {
-    public interface IServices
+    public interface IMemberServices
     {
         List<MemberViewModel> GetListMember();
         Member GetOneMember(int index);
