@@ -1,7 +1,22 @@
+using NETCORE_MVC.DataAccess;
+using NETCORE_MVC.Services;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+builder.Services.AddDistributedMemoryCache();
+
+builder.Services.AddSession(options =>
+{
+    options.IdleTimeout = TimeSpan.FromSeconds(10);
+    options.Cookie.HttpOnly = true;
+    options.Cookie.IsEssential = true;
+});
+
+builder.Services.AddTransient<IDataAccess, StaticMemberDataAccess>();
+builder.Services.AddTransient<IMemberServices, MemberService>();
 
 var app = builder.Build();
 
@@ -19,6 +34,8 @@ app.UseStaticFiles();
 app.UseRouting();
 
 app.UseAuthorization();
+
+app.UseSession();
 
 app.MapControllerRoute(
     name: "default",

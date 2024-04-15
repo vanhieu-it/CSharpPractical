@@ -1,6 +1,6 @@
 ﻿namespace NETCORE_MVC.DataAccess
 {
-    public class StaticMemberDataAccess
+    public class StaticMemberDataAccess : IDataAccess
     {
         private static List<Member> _members = new List<Member>
         {
@@ -43,34 +43,36 @@
         };
         public List<Member> Members
         {
-            get
-            {
-                return _members;
-            }
+            get => _members;
             set
             {
                 _members = value;
             }
         }
+
+        public List<Member> GetAllMember()
+        {
+            return Members;
+        }
+
         public StaticMemberDataAccess()
         {
 
         }
+
         public void AddMember(Member member)
         {
             Members.Add(member);
         }
+
         public void UpdateMember(int index, Member member)
         {
             Members[index] = member;
         }
+
         public void DeleteMember(int index)
         {
             Members.RemoveAt(index);
-        }
-        public Member GetOneMember(int index)
-        {
-            return Members[index];
         }
     }
 }

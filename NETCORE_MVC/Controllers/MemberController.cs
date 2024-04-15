@@ -4,54 +4,74 @@ using NETCORE_MVC.Services;
 
 namespace NETCORE_MVC.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("[controller]")]
     public class MemberController : Controller
     {
-        private readonly IMemberServices _memberServices;
-        public MemberController(IMemberServices memberServices)
+        private readonly ILogger<MemberController> _logger;
+
+        private readonly IMemberServices _service;
+
+        public MemberController(ILogger<MemberController> logger, IMemberServices service)
         {
-            _memberServices = memberServices;
-        }
-        [HttpGet]
-        // GET: MemberController
-        public ActionResult Index()
-        {
-            return View(_memberServices.GetListMember());
+            _logger = logger;
+            _service = service;
         }
 
-        // GET: MemberController/Details/5
-        public ActionResult Details(int id)
+        [HttpGet("Index")]
+        public IActionResult Index()
         {
-            return View();
+            return View(_service.GetListMember());
         }
+
         [HttpGet("Create")]
-        // GET: MemberController/Create
-        public ActionResult Create()
+        public IActionResult Create()
         {
             return View();
         }
 
-        // POST: MemberController/Create
         [HttpPost("Create")]
-        [ValidateAntiForgeryToken]
-        public ActionResult Create(CreateMemberRequest request)
+        public IActionResult Create(CreateMemberRequest request)
         {
-            if(ModelState.IsValid)
+            if (ModelState.IsValid)
             {
-                _memberServices.AddMember(request);
-                return RedirectToAction(nameof(Index));
+                _service.AddMember(request);
+
+                return RedirectToAction("Index");
             }
+
             return View(request);
         }
 
-        // POST: MemberController/Edit/5
-        [HttpPost("Edit")]
-        [ValidateAntiForgeryToken]
-        public ActionResult Edit(int id)
+        [HttpGet("Details")]
+        public IActionResult Details(int index)
         {
-            if(id >= 0 && id < _memberServices.GetListEdit().Count)
+            if (index >= 0 && index < _service.GetListMember().Count)
             {
-                var member = _memberServices.GetListEdit()[id];
+                var member = _service.GetOneMember(index);
+                var model = new MemberDetailsModel
+                {
+                    FirstName = member.FirstName,
+                    LastName = member.LastName,
+                    Gender = member.Gender,
+                    DateOfBirth = member.DateOfBirth,
+                    PhoneNumber = member.PhoneNumber,
+                    BirthPlace = member.BirthPlace
+                };
+
+                ViewData["Index"] = index;
+
+                return View(model);
+            }
+
+            return View();
+        }
+
+        [HttpGet("Edit")]
+        public IActionResult Edit(int index)
+        {
+            if (index >= 0 && index < _service.GetListEdit().Count)
+            {
+                var member = _service.GetListEdit()[index];
                 var model = new EditMemberViewModel
                 {
                     FirstName = member.FirstName,
@@ -59,30 +79,61 @@ namespace NETCORE_MVC.Controllers
                     PhoneNumber = member.PhoneNumber,
                     BirthPlace = member.BirthPlace
                 };
-                ViewData["Index"] = id;
+
+                ViewData["Index"] = index;
+
                 return View(model);
             }
-            return View();  
+
+            return View();
         }
-        [HttpPost("Delete")]
-        // GET: MemberController/Delete/5
-        public ActionResult Delete(int id)
-        {
-            if(id >= 0 && id < _memberServices.GetListMember().Count)
-            {
-                _memberServices.DeleteMember(id);
-            }
-            return RedirectToAction("Index");
-        }
+
         [HttpPost("Update")]
-        public ActionResult Update(int id, EditMemberViewModel model)
+        public IActionResult Update(int index, EditMemberViewModel model)
         {
-            if(ModelState.IsValid)
+            if (!ModelState.IsValid)
             {
-                _memberServices.UpdateMember(id, model);
+                return View(model);
+            }
+            if (index >= 0 && index < _service.GetListEdit().Count)
+            {
+                _service.UpdateMember(index, model);
+
                 return RedirectToAction("Index");
             }
+
             return View(model);
+        }
+
+        [HttpPost("Delete")]
+        public IActionResult Delete(int index)
+        {
+            if (index >= 0 && index < _service.GetListMember().Count)
+            {
+                _service.DeleteMember(index);
+            }
+
+            return RedirectToAction("Index");
+        }
+
+        [HttpPost("DeleteAndRedirectToResultView")]
+        public IActionResult DeleteAndRedirectToResultView(int index)
+        {
+            if (index >= 0 && index < _service.GetListMember().Count)
+            {
+                // TempData["DeleteNameMember"] = _service.GetOneMember(index).FullName;
+                HttpContext.Session.SetString("DeleteNameMember", _service.GetOneMember(index).FullName);
+                _service.DeleteMember(index);
+            }
+
+            return RedirectToAction("DeleteResult");
+        }
+
+        [HttpGet("DeleteResult")]
+        public IActionResult DeleteResult()
+        {
+            ViewBag.DeleteNameMember = HttpContext.Session.GetString("DeleteNameMember") ?? "unknown";
+            return View();
         }
     }
 }
