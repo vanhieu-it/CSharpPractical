@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\DictionarySample\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{404C61BD-72B9-46CC-96DD-1E1535545619}|Dictionary20\\Dictionary20.csproj|c:\\users\\hieu\\desktop\\csharplearning\\dictionarysample\\dictionary20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{404C61BD-72B9-46CC-96DD-1E1535545619}|Dictionary20\\Dictionary20.csproj|solutionrelative:dictionary20\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45283E3A-0099-488B-A56C-9A116EC39EA9}|Dictionary19\\Dictionary19.csproj|c:\\users\\hieu\\desktop\\csharplearning\\dictionarysample\\dictionary19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45283E3A-0099-488B-A56C-9A116EC39EA9}|Dictionary19\\Dictionary19.csproj|solutionrelative:dictionary19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D9A2453F-57D9-4B30-96EC-08E1DE675B4B}|Dictionary18\\Dictionary18.csproj|c:\\users\\hieu\\desktop\\csharplearning\\dictionarysample\\dictionary18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9A2453F-57D9-4B30-96EC-08E1DE675B4B}|Dictionary18\\Dictionary18.csproj|solutionrelative:dictionary18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -100,6 +108,32 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\DictionarySample\\Dictionary20\\Program.cs",
+              "RelativeDocumentMoniker": "Dictionary20\\Program.cs",
+              "ToolTip": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\DictionarySample\\Dictionary20\\Program.cs",
+              "RelativeToolTip": "Dictionary20\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAADwvzoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T06:42:50.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\DictionarySample\\Dictionary19\\Program.cs",
+              "RelativeDocumentMoniker": "Dictionary19\\Program.cs",
+              "ToolTip": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\DictionarySample\\Dictionary19\\Program.cs",
+              "RelativeToolTip": "Dictionary19\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAYwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T06:41:53.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\DictionarySample\\Dictionary18\\Program.cs",
               "RelativeDocumentMoniker": "Dictionary18\\Program.cs",
               "ToolTip": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\DictionarySample\\Dictionary18\\Program.cs",
@@ -111,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\DictionarySample\\Dictionary17\\Program.cs",
               "RelativeDocumentMoniker": "Dictionary17\\Program.cs",
@@ -119,12 +153,11 @@
               "RelativeToolTip": "Dictionary17\\Program.cs",
               "ViewState": "AQIAACMAAAAAAAAAAAAAwDEAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T06:33:20.856Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T06:33:20.856Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\DictionarySample\\Dictionary16\\Program.cs",
               "RelativeDocumentMoniker": "Dictionary16\\Program.cs",
@@ -132,12 +165,11 @@
               "RelativeToolTip": "Dictionary16\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T06:32:15.973Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T06:32:15.973Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\DictionarySample\\Dictionary15\\Program.cs",
               "RelativeDocumentMoniker": "Dictionary15\\Program.cs",
@@ -145,12 +177,11 @@
               "RelativeToolTip": "Dictionary15\\Program.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAswCQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T06:19:00.775Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T06:19:00.775Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\DictionarySample\\Dictionary14\\Program.cs",
               "RelativeDocumentMoniker": "Dictionary14\\Program.cs",
@@ -158,12 +189,11 @@
               "RelativeToolTip": "Dictionary14\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T06:17:08.865Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T06:17:08.865Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\DictionarySample\\Dictionary13\\Program.cs",
               "RelativeDocumentMoniker": "Dictionary13\\Program.cs",
@@ -171,12 +201,11 @@
               "RelativeToolTip": "Dictionary13\\Program.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAgwBMAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T06:15:08.243Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T06:15:08.243Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\DictionarySample\\Dictionary12\\Program.cs",
               "RelativeDocumentMoniker": "Dictionary12\\Program.cs",
@@ -184,12 +213,11 @@
               "RelativeToolTip": "Dictionary12\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T06:09:17.043Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T06:09:17.043Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Dictionary11.csproj",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\DictionarySample\\Dictionary11\\Dictionary11.csproj",
               "RelativeDocumentMoniker": "Dictionary11\\Dictionary11.csproj",
@@ -201,7 +229,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\DictionarySample\\Dictionary11\\Program.cs",
               "RelativeDocumentMoniker": "Dictionary11\\Program.cs",
@@ -213,7 +241,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\DictionarySample\\Dictionary10\\Program.cs",
               "RelativeDocumentMoniker": "Dictionary10\\Program.cs",
@@ -225,7 +253,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\DictionarySample\\Dictionary9\\Program.cs",
               "RelativeDocumentMoniker": "Dictionary9\\Program.cs",
@@ -237,7 +265,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\DictionarySample\\Dictionary8\\Program.cs",
               "RelativeDocumentMoniker": "Dictionary8\\Program.cs",
@@ -249,7 +277,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\DictionarySample\\Dictionary7\\Program.cs",
               "RelativeDocumentMoniker": "Dictionary7\\Program.cs",
@@ -261,7 +289,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\DictionarySample\\Dictionary6\\Program.cs",
               "RelativeDocumentMoniker": "Dictionary6\\Program.cs",
@@ -273,7 +301,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\DictionarySample\\Dictionary5\\Program.cs",
               "RelativeDocumentMoniker": "Dictionary5\\Program.cs",
@@ -285,7 +313,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\DictionarySample\\Dictionary4\\Program.cs",
               "RelativeDocumentMoniker": "Dictionary4\\Program.cs",
@@ -297,7 +325,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Dictionary1.csproj",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\DictionarySample\\Dictionary1\\Dictionary1.csproj",
               "RelativeDocumentMoniker": "Dictionary1\\Dictionary1.csproj",
@@ -309,7 +337,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\DictionarySample\\Dictionary3\\Program.cs",
               "RelativeDocumentMoniker": "Dictionary3\\Program.cs",
@@ -321,7 +349,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\DictionarySample\\Dictionary2\\Program.cs",
               "RelativeDocumentMoniker": "Dictionary2\\Program.cs",
@@ -333,7 +361,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\DictionarySample\\Dictionary1\\Program.cs",
               "RelativeDocumentMoniker": "Dictionary1\\Program.cs",

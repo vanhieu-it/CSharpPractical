@@ -1,0 +1,15 @@
+C:\Users\Hieu\Desktop\CSharpLearning\DictionarySample\Dictionary20\obj\Debug\net8.0\Dictionary20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hieu\Desktop\CSharpLearning\DictionarySample\Dictionary20\obj\Debug\net8.0\Dictionary20.AssemblyInfoInputs.cache
+C:\Users\Hieu\Desktop\CSharpLearning\DictionarySample\Dictionary20\obj\Debug\net8.0\Dictionary20.AssemblyInfo.cs
+C:\Users\Hieu\Desktop\CSharpLearning\DictionarySample\Dictionary20\obj\Debug\net8.0\Dictionary20.csproj.CoreCompileInputs.cache
+C:\Users\Hieu\Desktop\CSharpLearning\DictionarySample\Dictionary20\obj\Debug\net8.0\Dictionary20.sourcelink.json
+C:\Users\Hieu\Desktop\CSharpLearning\DictionarySample\Dictionary20\bin\Debug\net8.0\Dictionary20.exe
+C:\Users\Hieu\Desktop\CSharpLearning\DictionarySample\Dictionary20\bin\Debug\net8.0\Dictionary20.deps.json
+C:\Users\Hieu\Desktop\CSharpLearning\DictionarySample\Dictionary20\bin\Debug\net8.0\Dictionary20.runtimeconfig.json
+C:\Users\Hieu\Desktop\CSharpLearning\DictionarySample\Dictionary20\bin\Debug\net8.0\Dictionary20.dll
+C:\Users\Hieu\Desktop\CSharpLearning\DictionarySample\Dictionary20\bin\Debug\net8.0\Dictionary20.pdb
+C:\Users\Hieu\Desktop\CSharpLearning\DictionarySample\Dictionary20\obj\Debug\net8.0\Dictionary20.dll
+C:\Users\Hieu\Desktop\CSharpLearning\DictionarySample\Dictionary20\obj\Debug\net8.0\refint\Dictionary20.dll
+C:\Users\Hieu\Desktop\CSharpLearning\DictionarySample\Dictionary20\obj\Debug\net8.0\Dictionary20.pdb
+C:\Users\Hieu\Desktop\CSharpLearning\DictionarySample\Dictionary20\obj\Debug\net8.0\Dictionary20.genruntimeconfig.cache
+C:\Users\Hieu\Desktop\CSharpLearning\DictionarySample\Dictionary20\obj\Debug\net8.0\ref\Dictionary20.dll
