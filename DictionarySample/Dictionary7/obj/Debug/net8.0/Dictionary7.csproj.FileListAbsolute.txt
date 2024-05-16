@@ -1,0 +1,15 @@
+C:\Users\Hieu\Desktop\CSharpLearning\DictionarySample\Dictionary7\bin\Debug\net8.0\Dictionary7.exe
+C:\Users\Hieu\Desktop\CSharpLearning\DictionarySample\Dictionary7\bin\Debug\net8.0\Dictionary7.deps.json
+C:\Users\Hieu\Desktop\CSharpLearning\DictionarySample\Dictionary7\bin\Debug\net8.0\Dictionary7.runtimeconfig.json
+C:\Users\Hieu\Desktop\CSharpLearning\DictionarySample\Dictionary7\bin\Debug\net8.0\Dictionary7.dll
+C:\Users\Hieu\Desktop\CSharpLearning\DictionarySample\Dictionary7\bin\Debug\net8.0\Dictionary7.pdb
+C:\Users\Hieu\Desktop\CSharpLearning\DictionarySample\Dictionary7\obj\Debug\net8.0\Dictionary7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hieu\Desktop\CSharpLearning\DictionarySample\Dictionary7\obj\Debug\net8.0\Dictionary7.AssemblyInfoInputs.cache
+C:\Users\Hieu\Desktop\CSharpLearning\DictionarySample\Dictionary7\obj\Debug\net8.0\Dictionary7.AssemblyInfo.cs
+C:\Users\Hieu\Desktop\CSharpLearning\DictionarySample\Dictionary7\obj\Debug\net8.0\Dictionary7.csproj.CoreCompileInputs.cache
+C:\Users\Hieu\Desktop\CSharpLearning\DictionarySample\Dictionary7\obj\Debug\net8.0\Dictionary7.sourcelink.json
+C:\Users\Hieu\Desktop\CSharpLearning\DictionarySample\Dictionary7\obj\Debug\net8.0\Dictionary7.dll
+C:\Users\Hieu\Desktop\CSharpLearning\DictionarySample\Dictionary7\obj\Debug\net8.0\refint\Dictionary7.dll
+C:\Users\Hieu\Desktop\CSharpLearning\DictionarySample\Dictionary7\obj\Debug\net8.0\Dictionary7.pdb
+C:\Users\Hieu\Desktop\CSharpLearning\DictionarySample\Dictionary7\obj\Debug\net8.0\Dictionary7.genruntimeconfig.cache
+C:\Users\Hieu\Desktop\CSharpLearning\DictionarySample\Dictionary7\obj\Debug\net8.0\ref\Dictionary7.dll
