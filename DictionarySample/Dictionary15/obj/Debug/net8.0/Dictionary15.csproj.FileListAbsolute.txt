@@ -1,0 +1,15 @@
+C:\Users\Hieu\Desktop\CSharpLearning\DictionarySample\Dictionary15\bin\Debug\net8.0\Dictionary15.exe
+C:\Users\Hieu\Desktop\CSharpLearning\DictionarySample\Dictionary15\bin\Debug\net8.0\Dictionary15.deps.json
+C:\Users\Hieu\Desktop\CSharpLearning\DictionarySample\Dictionary15\bin\Debug\net8.0\Dictionary15.runtimeconfig.json
+C:\Users\Hieu\Desktop\CSharpLearning\DictionarySample\Dictionary15\bin\Debug\net8.0\Dictionary15.dll
+C:\Users\Hieu\Desktop\CSharpLearning\DictionarySample\Dictionary15\bin\Debug\net8.0\Dictionary15.pdb
+C:\Users\Hieu\Desktop\CSharpLearning\DictionarySample\Dictionary15\obj\Debug\net8.0\Dictionary15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hieu\Desktop\CSharpLearning\DictionarySample\Dictionary15\obj\Debug\net8.0\Dictionary15.AssemblyInfoInputs.cache
+C:\Users\Hieu\Desktop\CSharpLearning\DictionarySample\Dictionary15\obj\Debug\net8.0\Dictionary15.AssemblyInfo.cs
+C:\Users\Hieu\Desktop\CSharpLearning\DictionarySample\Dictionary15\obj\Debug\net8.0\Dictionary15.csproj.CoreCompileInputs.cache
+C:\Users\Hieu\Desktop\CSharpLearning\DictionarySample\Dictionary15\obj\Debug\net8.0\Dictionary15.sourcelink.json
+C:\Users\Hieu\Desktop\CSharpLearning\DictionarySample\Dictionary15\obj\Debug\net8.0\Dictionary15.dll
+C:\Users\Hieu\Desktop\CSharpLearning\DictionarySample\Dictionary15\obj\Debug\net8.0\refint\Dictionary15.dll
+C:\Users\Hieu\Desktop\CSharpLearning\DictionarySample\Dictionary15\obj\Debug\net8.0\Dictionary15.pdb
+C:\Users\Hieu\Desktop\CSharpLearning\DictionarySample\Dictionary15\obj\Debug\net8.0\Dictionary15.genruntimeconfig.cache
+C:\Users\Hieu\Desktop\CSharpLearning\DictionarySample\Dictionary15\obj\Debug\net8.0\ref\Dictionary15.dll

@@ -1,0 +1,15 @@
+C:\Users\Hieu\Desktop\CSharpLearning\DictionarySample\Dictionary13\bin\Debug\net8.0\Dictionary13.exe
+C:\Users\Hieu\Desktop\CSharpLearning\DictionarySample\Dictionary13\bin\Debug\net8.0\Dictionary13.deps.json
+C:\Users\Hieu\Desktop\CSharpLearning\DictionarySample\Dictionary13\bin\Debug\net8.0\Dictionary13.runtimeconfig.json
+C:\Users\Hieu\Desktop\CSharpLearning\DictionarySample\Dictionary13\bin\Debug\net8.0\Dictionary13.dll
+C:\Users\Hieu\Desktop\CSharpLearning\DictionarySample\Dictionary13\bin\Debug\net8.0\Dictionary13.pdb
+C:\Users\Hieu\Desktop\CSharpLearning\DictionarySample\Dictionary13\obj\Debug\net8.0\Dictionary13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hieu\Desktop\CSharpLearning\DictionarySample\Dictionary13\obj\Debug\net8.0\Dictionary13.AssemblyInfoInputs.cache
+C:\Users\Hieu\Desktop\CSharpLearning\DictionarySample\Dictionary13\obj\Debug\net8.0\Dictionary13.AssemblyInfo.cs
+C:\Users\Hieu\Desktop\CSharpLearning\DictionarySample\Dictionary13\obj\Debug\net8.0\Dictionary13.csproj.CoreCompileInputs.cache
+C:\Users\Hieu\Desktop\CSharpLearning\DictionarySample\Dictionary13\obj\Debug\net8.0\Dictionary13.sourcelink.json
+C:\Users\Hieu\Desktop\CSharpLearning\DictionarySample\Dictionary13\obj\Debug\net8.0\Dictionary13.dll
+C:\Users\Hieu\Desktop\CSharpLearning\DictionarySample\Dictionary13\obj\Debug\net8.0\refint\Dictionary13.dll
+C:\Users\Hieu\Desktop\CSharpLearning\DictionarySample\Dictionary13\obj\Debug\net8.0\Dictionary13.pdb
+C:\Users\Hieu\Desktop\CSharpLearning\DictionarySample\Dictionary13\obj\Debug\net8.0\Dictionary13.genruntimeconfig.cache
+C:\Users\Hieu\Desktop\CSharpLearning\DictionarySample\Dictionary13\obj\Debug\net8.0\ref\Dictionary13.dll
