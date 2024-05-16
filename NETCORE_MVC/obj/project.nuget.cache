@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ASphcbLJJVMgQis6CTIVIzNNLTtIBoOx2JUpDf0gPQoIaloeFtB7s4ZFlRvLjjaE9xpDfNgpTAUNPvfeRFNfiQ==",
+  "dgSpecHash": "3psz9vnafxNGkKqIV03iNIEcrG+iOxnUqp2RoT9mIeIP0tSPtHgsFcpLbhvdGlLkcI1rIfVVbihdpA5YWw+CzQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hieu\\Desktop\\CSharpToSave\\NETCORE_MVC\\NETCORE_MVC.csproj",
+  "projectFilePath": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\NETCORE_MVC\\NETCORE_MVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hieu\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Hieu\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

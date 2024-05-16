@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hieu\\Desktop\\CSharpToSave\\NETCORE_MVC\\NETCORE_MVC.csproj": {}
+    "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\NETCORE_MVC\\NETCORE_MVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hieu\\Desktop\\CSharpToSave\\NETCORE_MVC\\NETCORE_MVC.csproj": {
+    "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\NETCORE_MVC\\NETCORE_MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hieu\\Desktop\\CSharpToSave\\NETCORE_MVC\\NETCORE_MVC.csproj",
+        "projectUniqueName": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\NETCORE_MVC\\NETCORE_MVC.csproj",
         "projectName": "NETCORE_MVC",
-        "projectPath": "C:\\Users\\Hieu\\Desktop\\CSharpToSave\\NETCORE_MVC\\NETCORE_MVC.csproj",
+        "projectPath": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\NETCORE_MVC\\NETCORE_MVC.csproj",
         "packagesPath": "C:\\Users\\Hieu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hieu\\Desktop\\CSharpToSave\\NETCORE_MVC\\obj\\",
+        "outputPath": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\NETCORE_MVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -24,8 +24,6 @@
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\DevExpress 18.1\\Components\\System\\Components\\Packages": {},
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://www.nuget.org/api/v2/": {}
         },
         "frameworks": {
