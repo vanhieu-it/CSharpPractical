@@ -15,9 +15,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dictionary5", "Dictionary5\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dictionary6", "Dictionary6\Dictionary6.csproj", "{A5F67065-4AA6-41DC-A9FB-9ED4AFB58221}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary7", "Dictionary7\Dictionary7.csproj", "{6382165E-DDE6-4D76-9F5E-B1C6782A2903}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dictionary7", "Dictionary7\Dictionary7.csproj", "{6382165E-DDE6-4D76-9F5E-B1C6782A2903}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary8", "Dictionary8\Dictionary8.csproj", "{308A55E5-93CF-408C-A8F5-997DDEC72E0E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dictionary8", "Dictionary8\Dictionary8.csproj", "{308A55E5-93CF-408C-A8F5-997DDEC72E0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary9", "Dictionary9\Dictionary9.csproj", "{7888FA7F-6FF9-4949-9213-8236494C8929}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{308A55E5-93CF-408C-A8F5-997DDEC72E0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{308A55E5-93CF-408C-A8F5-997DDEC72E0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{308A55E5-93CF-408C-A8F5-997DDEC72E0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7888FA7F-6FF9-4949-9213-8236494C8929}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7888FA7F-6FF9-4949-9213-8236494C8929}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7888FA7F-6FF9-4949-9213-8236494C8929}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7888FA7F-6FF9-4949-9213-8236494C8929}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
