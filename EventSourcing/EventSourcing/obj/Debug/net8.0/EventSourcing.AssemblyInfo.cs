@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EventSourcing")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0cd50920a9b0c775063f6f26d92e6d0b7397282")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3135edaa671a7c18d2eb069daee0bf5287db4557")]
 [assembly: System.Reflection.AssemblyProductAttribute("EventSourcing")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EventSourcing")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
