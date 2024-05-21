@@ -10,37 +10,32 @@ namespace SocketClient
         {
             try
             {
-                // Define the port and IP address for the client
                 int port = 8080;
                 string server = "127.0.0.1";
 
-                // Create a TCP/IP socket
                 TcpClient client = new TcpClient(server, port);
-
-                // Translate the passed message into ASCII and store it as a byte array.
-                Console.Write("Enter the message to send: ");
-                string message = Console.ReadLine();
-                byte[] data = Encoding.ASCII.GetBytes(message);
-
-                // Get a client stream for reading and writing.
                 NetworkStream stream = client.GetStream();
 
-                // Send the message to the connected TcpServer.
-                stream.Write(data, 0, data.Length);
-                Console.WriteLine($"Sent: {message}");
+                while (true)
+                {
+                    Console.Write("Enter the message to send: ");
+                    string message = Console.ReadLine();
 
-                // Buffer to store the response bytes.
-                data = new byte[1024];
+                    if (string.IsNullOrEmpty(message))
+                    {
+                        break;
+                    }
 
-                // String to store the response ASCII representation.
-                string responseData = string.Empty;
+                    byte[] data = Encoding.ASCII.GetBytes(message);
+                    stream.Write(data, 0, data.Length);
+                    Console.WriteLine($"Sent: {message}");
 
-                // Read the first batch of the TcpServer response bytes.
-                int bytes = stream.Read(data, 0, data.Length);
-                responseData = Encoding.ASCII.GetString(data, 0, bytes);
-                Console.WriteLine($"Received: {responseData}");
+                    data = new byte[1024];
+                    int bytes = stream.Read(data, 0, data.Length);
+                    string responseData = Encoding.ASCII.GetString(data, 0, bytes);
+                    Console.WriteLine($"Received: {responseData}");
+                }
 
-                // Close everything.
                 stream.Close();
                 client.Close();
             }
