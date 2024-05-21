@@ -1,0 +1,15 @@
+C:\Users\Hieu\Desktop\CSharpLearning\Socket\SocketClient\SocketClient\bin\Debug\net8.0\SocketClient.exe
+C:\Users\Hieu\Desktop\CSharpLearning\Socket\SocketClient\SocketClient\bin\Debug\net8.0\SocketClient.deps.json
+C:\Users\Hieu\Desktop\CSharpLearning\Socket\SocketClient\SocketClient\bin\Debug\net8.0\SocketClient.runtimeconfig.json
+C:\Users\Hieu\Desktop\CSharpLearning\Socket\SocketClient\SocketClient\bin\Debug\net8.0\SocketClient.dll
+C:\Users\Hieu\Desktop\CSharpLearning\Socket\SocketClient\SocketClient\bin\Debug\net8.0\SocketClient.pdb
+C:\Users\Hieu\Desktop\CSharpLearning\Socket\SocketClient\SocketClient\obj\Debug\net8.0\SocketClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hieu\Desktop\CSharpLearning\Socket\SocketClient\SocketClient\obj\Debug\net8.0\SocketClient.AssemblyInfoInputs.cache
+C:\Users\Hieu\Desktop\CSharpLearning\Socket\SocketClient\SocketClient\obj\Debug\net8.0\SocketClient.AssemblyInfo.cs
+C:\Users\Hieu\Desktop\CSharpLearning\Socket\SocketClient\SocketClient\obj\Debug\net8.0\SocketClient.csproj.CoreCompileInputs.cache
+C:\Users\Hieu\Desktop\CSharpLearning\Socket\SocketClient\SocketClient\obj\Debug\net8.0\SocketClient.sourcelink.json
+C:\Users\Hieu\Desktop\CSharpLearning\Socket\SocketClient\SocketClient\obj\Debug\net8.0\SocketClient.dll
+C:\Users\Hieu\Desktop\CSharpLearning\Socket\SocketClient\SocketClient\obj\Debug\net8.0\refint\SocketClient.dll
+C:\Users\Hieu\Desktop\CSharpLearning\Socket\SocketClient\SocketClient\obj\Debug\net8.0\SocketClient.pdb
+C:\Users\Hieu\Desktop\CSharpLearning\Socket\SocketClient\SocketClient\obj\Debug\net8.0\SocketClient.genruntimeconfig.cache
+C:\Users\Hieu\Desktop\CSharpLearning\Socket\SocketClient\SocketClient\obj\Debug\net8.0\ref\SocketClient.dll

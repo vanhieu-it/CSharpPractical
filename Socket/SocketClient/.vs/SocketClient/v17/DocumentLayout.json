@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\EventSourcing\\",
+  "WorkspaceRootPath": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\Socket\\SocketClient\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{09831BB2-08CE-41D3-B05E-80D76C999679}|EventSourcing\\EventSourcing.csproj|c:\\users\\hieu\\desktop\\csharplearning\\eventsourcing\\eventsourcing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{09831BB2-08CE-41D3-B05E-80D76C999679}|EventSourcing\\EventSourcing.csproj|solutionrelative:eventsourcing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A144D5D5-90C3-4F19-833A-6D919034735F}|SocketClient\\SocketClient.csproj|c:\\users\\hieu\\desktop\\csharplearning\\socket\\socketclient\\socketclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A144D5D5-90C3-4F19-833A-6D919034735F}|SocketClient\\SocketClient.csproj|solutionrelative:socketclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,13 +24,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\EventSourcing\\EventSourcing\\Program.cs",
-              "RelativeDocumentMoniker": "EventSourcing\\Program.cs",
-              "ToolTip": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\EventSourcing\\EventSourcing\\Program.cs",
-              "RelativeToolTip": "EventSourcing\\Program.cs",
-              "ViewState": "AQIAAIcAAAAAAAAAAAAAAIwAAAAFAAAA",
+              "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\Socket\\SocketClient\\SocketClient\\Program.cs",
+              "RelativeDocumentMoniker": "SocketClient\\Program.cs",
+              "ToolTip": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\Socket\\SocketClient\\SocketClient\\Program.cs",
+              "RelativeToolTip": "SocketClient\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAcwBkAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T06:38:42.997Z",
+              "WhenOpened": "2024-05-21T03:33:56.883Z",
               "EditorCaption": ""
             }
           ]

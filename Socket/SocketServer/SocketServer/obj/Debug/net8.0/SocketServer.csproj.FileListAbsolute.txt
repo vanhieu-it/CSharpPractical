@@ -1,0 +1,15 @@
+C:\Users\Hieu\Desktop\CSharpLearning\Socket\SocketServer\SocketServer\bin\Debug\net8.0\SocketServer.exe
+C:\Users\Hieu\Desktop\CSharpLearning\Socket\SocketServer\SocketServer\bin\Debug\net8.0\SocketServer.deps.json
+C:\Users\Hieu\Desktop\CSharpLearning\Socket\SocketServer\SocketServer\bin\Debug\net8.0\SocketServer.runtimeconfig.json
+C:\Users\Hieu\Desktop\CSharpLearning\Socket\SocketServer\SocketServer\bin\Debug\net8.0\SocketServer.dll
+C:\Users\Hieu\Desktop\CSharpLearning\Socket\SocketServer\SocketServer\bin\Debug\net8.0\SocketServer.pdb
+C:\Users\Hieu\Desktop\CSharpLearning\Socket\SocketServer\SocketServer\obj\Debug\net8.0\SocketServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hieu\Desktop\CSharpLearning\Socket\SocketServer\SocketServer\obj\Debug\net8.0\SocketServer.AssemblyInfoInputs.cache
+C:\Users\Hieu\Desktop\CSharpLearning\Socket\SocketServer\SocketServer\obj\Debug\net8.0\SocketServer.AssemblyInfo.cs
+C:\Users\Hieu\Desktop\CSharpLearning\Socket\SocketServer\SocketServer\obj\Debug\net8.0\SocketServer.csproj.CoreCompileInputs.cache
+C:\Users\Hieu\Desktop\CSharpLearning\Socket\SocketServer\SocketServer\obj\Debug\net8.0\SocketServer.sourcelink.json
+C:\Users\Hieu\Desktop\CSharpLearning\Socket\SocketServer\SocketServer\obj\Debug\net8.0\SocketServer.dll
+C:\Users\Hieu\Desktop\CSharpLearning\Socket\SocketServer\SocketServer\obj\Debug\net8.0\refint\SocketServer.dll
+C:\Users\Hieu\Desktop\CSharpLearning\Socket\SocketServer\SocketServer\obj\Debug\net8.0\SocketServer.pdb
+C:\Users\Hieu\Desktop\CSharpLearning\Socket\SocketServer\SocketServer\obj\Debug\net8.0\SocketServer.genruntimeconfig.cache
+C:\Users\Hieu\Desktop\CSharpLearning\Socket\SocketServer\SocketServer\obj\Debug\net8.0\ref\SocketServer.dll
