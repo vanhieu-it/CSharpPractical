@@ -1,0 +1,352 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\BusinessLogic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEB8311-CCB0-4D00-ADF3-9FE4EF613481}|BusinessLogic.Tests\\BusinessLogic.Tests.csproj|c:\\users\\hieu\\desktop\\csharplearning\\businesslogic\\businesslogic.tests\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEB8311-CCB0-4D00-ADF3-9FE4EF613481}|BusinessLogic.Tests\\BusinessLogic.Tests.csproj|solutionrelative:businesslogic.tests\\calculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEB8311-CCB0-4D00-ADF3-9FE4EF613481}|BusinessLogic.Tests\\BusinessLogic.Tests.csproj|c:\\users\\hieu\\desktop\\csharplearning\\businesslogic\\businesslogic.tests\\testdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AAEB8311-CCB0-4D00-ADF3-9FE4EF613481}|BusinessLogic.Tests\\BusinessLogic.Tests.csproj|solutionrelative:businesslogic.tests\\testdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEB8311-CCB0-4D00-ADF3-9FE4EF613481}|BusinessLogic.Tests\\BusinessLogic.Tests.csproj|c:\\users\\hieu\\desktop\\csharplearning\\businesslogic\\businesslogic.tests\\databasecollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEB8311-CCB0-4D00-ADF3-9FE4EF613481}|BusinessLogic.Tests\\BusinessLogic.Tests.csproj|solutionrelative:businesslogic.tests\\databasecollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEB8311-CCB0-4D00-ADF3-9FE4EF613481}|BusinessLogic.Tests\\BusinessLogic.Tests.csproj|c:\\users\\hieu\\desktop\\csharplearning\\businesslogic\\businesslogic.tests\\buttontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEB8311-CCB0-4D00-ADF3-9FE4EF613481}|BusinessLogic.Tests\\BusinessLogic.Tests.csproj|solutionrelative:businesslogic.tests\\buttontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E165113F-EBFB-4658-BF36-49426057402A}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\hieu\\desktop\\csharplearning\\businesslogic\\businesslogic\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E165113F-EBFB-4658-BF36-49426057402A}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEB8311-CCB0-4D00-ADF3-9FE4EF613481}|BusinessLogic.Tests\\BusinessLogic.Tests.csproj|c:\\users\\hieu\\desktop\\csharplearning\\businesslogic\\businesslogic.tests\\databasefixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEB8311-CCB0-4D00-ADF3-9FE4EF613481}|BusinessLogic.Tests\\BusinessLogic.Tests.csproj|solutionrelative:businesslogic.tests\\databasefixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEB8311-CCB0-4D00-ADF3-9FE4EF613481}|BusinessLogic.Tests\\BusinessLogic.Tests.csproj|c:\\users\\hieu\\desktop\\csharplearning\\businesslogic\\businesslogic.tests\\databasetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEB8311-CCB0-4D00-ADF3-9FE4EF613481}|BusinessLogic.Tests\\BusinessLogic.Tests.csproj|solutionrelative:businesslogic.tests\\databasetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEB8311-CCB0-4D00-ADF3-9FE4EF613481}|BusinessLogic.Tests\\BusinessLogic.Tests.csproj|c:\\users\\hieu\\desktop\\csharplearning\\businesslogic\\businesslogic.tests\\greetingservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEB8311-CCB0-4D00-ADF3-9FE4EF613481}|BusinessLogic.Tests\\BusinessLogic.Tests.csproj|solutionrelative:businesslogic.tests\\greetingservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E165113F-EBFB-4658-BF36-49426057402A}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\hieu\\desktop\\csharplearning\\businesslogic\\businesslogic\\greetingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E165113F-EBFB-4658-BF36-49426057402A}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\greetingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E165113F-EBFB-4658-BF36-49426057402A}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\hieu\\desktop\\csharplearning\\businesslogic\\businesslogic\\calculatortestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E165113F-EBFB-4658-BF36-49426057402A}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\calculatortestdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E165113F-EBFB-4658-BF36-49426057402A}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\hieu\\desktop\\csharplearning\\businesslogic\\businesslogic\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E165113F-EBFB-4658-BF36-49426057402A}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEB8311-CCB0-4D00-ADF3-9FE4EF613481}|BusinessLogic.Tests\\BusinessLogic.Tests.csproj|c:\\users\\hieu\\desktop\\csharplearning\\businesslogic\\businesslogic.tests\\divisionservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEB8311-CCB0-4D00-ADF3-9FE4EF613481}|BusinessLogic.Tests\\BusinessLogic.Tests.csproj|solutionrelative:businesslogic.tests\\divisionservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E165113F-EBFB-4658-BF36-49426057402A}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\hieu\\desktop\\csharplearning\\businesslogic\\businesslogic\\divisionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E165113F-EBFB-4658-BF36-49426057402A}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\divisionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEB8311-CCB0-4D00-ADF3-9FE4EF613481}|BusinessLogic.Tests\\BusinessLogic.Tests.csproj|c:\\users\\hieu\\desktop\\csharplearning\\businesslogic\\businesslogic.tests\\datafetchertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEB8311-CCB0-4D00-ADF3-9FE4EF613481}|BusinessLogic.Tests\\BusinessLogic.Tests.csproj|solutionrelative:businesslogic.tests\\datafetchertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E165113F-EBFB-4658-BF36-49426057402A}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\hieu\\desktop\\csharplearning\\businesslogic\\businesslogic\\datafetcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E165113F-EBFB-4658-BF36-49426057402A}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\datafetcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEB8311-CCB0-4D00-ADF3-9FE4EF613481}|BusinessLogic.Tests\\BusinessLogic.Tests.csproj|c:\\users\\hieu\\desktop\\csharplearning\\businesslogic\\businesslogic.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AAEB8311-CCB0-4D00-ADF3-9FE4EF613481}|BusinessLogic.Tests\\BusinessLogic.Tests.csproj|solutionrelative:businesslogic.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAEB8311-CCB0-4D00-ADF3-9FE4EF613481}|BusinessLogic.Tests\\BusinessLogic.Tests.csproj|c:\\users\\hieu\\desktop\\csharplearning\\businesslogic\\businesslogic.tests\\businesslogic.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AAEB8311-CCB0-4D00-ADF3-9FE4EF613481}|BusinessLogic.Tests\\BusinessLogic.Tests.csproj|solutionrelative:businesslogic.tests\\businesslogic.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E165113F-EBFB-4658-BF36-49426057402A}|BusinessLogic\\BusinessLogic.csproj|c:\\users\\hieu\\desktop\\csharplearning\\businesslogic\\businesslogic\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E165113F-EBFB-4658-BF36-49426057402A}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 332,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ButtonTests.cs",
+              "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\BusinessLogic\\BusinessLogic.Tests\\ButtonTests.cs",
+              "RelativeDocumentMoniker": "BusinessLogic.Tests\\ButtonTests.cs",
+              "ToolTip": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\BusinessLogic\\BusinessLogic.Tests\\ButtonTests.cs",
+              "RelativeToolTip": "BusinessLogic.Tests\\ButtonTests.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T07:02:11.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Button.cs",
+              "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\BusinessLogic\\BusinessLogic\\Button.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Button.cs",
+              "ToolTip": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\BusinessLogic\\BusinessLogic\\Button.cs",
+              "RelativeToolTip": "BusinessLogic\\Button.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T07:01:53.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DatabaseTests.cs",
+              "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\BusinessLogic\\BusinessLogic.Tests\\DatabaseTests.cs",
+              "RelativeDocumentMoniker": "BusinessLogic.Tests\\DatabaseTests.cs",
+              "ToolTip": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\BusinessLogic\\BusinessLogic.Tests\\DatabaseTests.cs",
+              "RelativeToolTip": "BusinessLogic.Tests\\DatabaseTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T06:56:00.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseCollection.cs",
+              "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\BusinessLogic\\BusinessLogic.Tests\\DatabaseCollection.cs",
+              "RelativeDocumentMoniker": "BusinessLogic.Tests\\DatabaseCollection.cs",
+              "ToolTip": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\BusinessLogic\\BusinessLogic.Tests\\DatabaseCollection.cs",
+              "RelativeToolTip": "BusinessLogic.Tests\\DatabaseCollection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T06:55:32.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DatabaseFixture.cs",
+              "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\BusinessLogic\\BusinessLogic.Tests\\DatabaseFixture.cs",
+              "RelativeDocumentMoniker": "BusinessLogic.Tests\\DatabaseFixture.cs",
+              "ToolTip": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\BusinessLogic\\BusinessLogic.Tests\\DatabaseFixture.cs",
+              "RelativeToolTip": "BusinessLogic.Tests\\DatabaseFixture.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T06:54:45.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GreetingServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\BusinessLogic\\BusinessLogic.Tests\\GreetingServiceTests.cs",
+              "RelativeDocumentMoniker": "BusinessLogic.Tests\\GreetingServiceTests.cs",
+              "ToolTip": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\BusinessLogic\\BusinessLogic.Tests\\GreetingServiceTests.cs",
+              "RelativeToolTip": "BusinessLogic.Tests\\GreetingServiceTests.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAcwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T06:52:36.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GreetingService.cs",
+              "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\BusinessLogic\\BusinessLogic\\GreetingService.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\GreetingService.cs",
+              "ToolTip": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\BusinessLogic\\BusinessLogic\\GreetingService.cs",
+              "RelativeToolTip": "BusinessLogic\\GreetingService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvxsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T06:52:06.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\BusinessLogic\\BusinessLogic.Tests\\CalculatorTests.cs",
+              "RelativeDocumentMoniker": "BusinessLogic.Tests\\CalculatorTests.cs",
+              "ToolTip": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\BusinessLogic\\BusinessLogic.Tests\\CalculatorTests.cs*",
+              "RelativeToolTip": "BusinessLogic.Tests\\CalculatorTests.cs*",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAnwFAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T06:19:39.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "testdata.json",
+              "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\BusinessLogic\\BusinessLogic.Tests\\testdata.json",
+              "RelativeDocumentMoniker": "BusinessLogic.Tests\\testdata.json",
+              "ToolTip": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\BusinessLogic\\BusinessLogic.Tests\\testdata.json",
+              "RelativeToolTip": "BusinessLogic.Tests\\testdata.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-24T07:06:48.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CalculatorTestData.cs",
+              "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\BusinessLogic\\BusinessLogic\\CalculatorTestData.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\CalculatorTestData.cs",
+              "ToolTip": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\BusinessLogic\\BusinessLogic\\CalculatorTestData.cs",
+              "RelativeToolTip": "BusinessLogic\\CalculatorTestData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T06:47:47.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DivisionServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\BusinessLogic\\BusinessLogic.Tests\\DivisionServiceTests.cs",
+              "RelativeDocumentMoniker": "BusinessLogic.Tests\\DivisionServiceTests.cs",
+              "ToolTip": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\BusinessLogic\\BusinessLogic.Tests\\DivisionServiceTests.cs",
+              "RelativeToolTip": "BusinessLogic.Tests\\DivisionServiceTests.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T06:45:39.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DivisionService.cs",
+              "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\BusinessLogic\\BusinessLogic\\DivisionService.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\DivisionService.cs",
+              "ToolTip": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\BusinessLogic\\BusinessLogic\\DivisionService.cs",
+              "RelativeToolTip": "BusinessLogic\\DivisionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T06:44:55.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DataFetcherTests.cs",
+              "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\BusinessLogic\\BusinessLogic.Tests\\DataFetcherTests.cs",
+              "RelativeDocumentMoniker": "BusinessLogic.Tests\\DataFetcherTests.cs",
+              "ToolTip": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\BusinessLogic\\BusinessLogic.Tests\\DataFetcherTests.cs",
+              "RelativeToolTip": "BusinessLogic.Tests\\DataFetcherTests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T06:44:00.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DataFetcher.cs",
+              "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\BusinessLogic\\BusinessLogic\\DataFetcher.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\DataFetcher.cs",
+              "ToolTip": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\BusinessLogic\\BusinessLogic\\DataFetcher.cs",
+              "RelativeToolTip": "BusinessLogic\\DataFetcher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T06:43:27.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BusinessLogic.Tests",
+              "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\BusinessLogic\\BusinessLogic.Tests\\BusinessLogic.Tests.csproj",
+              "RelativeDocumentMoniker": "BusinessLogic.Tests\\BusinessLogic.Tests.csproj",
+              "ToolTip": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\BusinessLogic\\BusinessLogic.Tests\\BusinessLogic.Tests.csproj",
+              "RelativeToolTip": "BusinessLogic.Tests\\BusinessLogic.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-24T06:36:05.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\BusinessLogic\\BusinessLogic\\Calculator.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Calculator.cs",
+              "ToolTip": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\BusinessLogic\\BusinessLogic\\Calculator.cs",
+              "RelativeToolTip": "BusinessLogic\\Calculator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T06:19:08.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\BusinessLogic\\BusinessLogic.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "BusinessLogic.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\BusinessLogic\\BusinessLogic.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "BusinessLogic.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T06:17:24.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\BusinessLogic\\BusinessLogic\\Class1.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Class1.cs",
+              "ToolTip": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\BusinessLogic\\BusinessLogic\\Class1.cs",
+              "RelativeToolTip": "BusinessLogic\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T06:15:17.744Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 271,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
