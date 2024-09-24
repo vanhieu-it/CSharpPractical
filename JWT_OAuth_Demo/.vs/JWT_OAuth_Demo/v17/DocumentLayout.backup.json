@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hieu\\Desktop\\JWT_OAuth_Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F767FAA-A8BE-456E-94E8-EDCB0A0A2E26}|JWT_OAuth_Demo\\JWT_OAuth_Demo.csproj|c:\\users\\hieu\\desktop\\jwt_oauth_demo\\jwt_oauth_demo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9F767FAA-A8BE-456E-94E8-EDCB0A0A2E26}|JWT_OAuth_Demo\\JWT_OAuth_Demo.csproj|solutionrelative:jwt_oauth_demo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F767FAA-A8BE-456E-94E8-EDCB0A0A2E26}|JWT_OAuth_Demo\\JWT_OAuth_Demo.csproj|c:\\users\\hieu\\desktop\\jwt_oauth_demo\\jwt_oauth_demo\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F767FAA-A8BE-456E-94E8-EDCB0A0A2E26}|JWT_OAuth_Demo\\JWT_OAuth_Demo.csproj|solutionrelative:jwt_oauth_demo\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F767FAA-A8BE-456E-94E8-EDCB0A0A2E26}|JWT_OAuth_Demo\\JWT_OAuth_Demo.csproj|c:\\users\\hieu\\desktop\\jwt_oauth_demo\\jwt_oauth_demo\\controllers\\securecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F767FAA-A8BE-456E-94E8-EDCB0A0A2E26}|JWT_OAuth_Demo\\JWT_OAuth_Demo.csproj|solutionrelative:jwt_oauth_demo\\controllers\\securecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F767FAA-A8BE-456E-94E8-EDCB0A0A2E26}|JWT_OAuth_Demo\\JWT_OAuth_Demo.csproj|c:\\users\\hieu\\desktop\\jwt_oauth_demo\\jwt_oauth_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F767FAA-A8BE-456E-94E8-EDCB0A0A2E26}|JWT_OAuth_Demo\\JWT_OAuth_Demo.csproj|solutionrelative:jwt_oauth_demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 332,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SecureController.cs",
+              "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\JWT_OAuth_Demo\\JWT_OAuth_Demo\\Controllers\\SecureController.cs",
+              "RelativeDocumentMoniker": "JWT_OAuth_Demo\\Controllers\\SecureController.cs",
+              "ToolTip": "C:\\Users\\Hieu\\Desktop\\JWT_OAuth_Demo\\JWT_OAuth_Demo\\Controllers\\SecureController.cs",
+              "RelativeToolTip": "JWT_OAuth_Demo\\Controllers\\SecureController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T02:53:13.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\JWT_OAuth_Demo\\JWT_OAuth_Demo\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "JWT_OAuth_Demo\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Hieu\\Desktop\\JWT_OAuth_Demo\\JWT_OAuth_Demo\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "JWT_OAuth_Demo\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T02:35:28.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\JWT_OAuth_Demo\\JWT_OAuth_Demo\\appsettings.json",
+              "RelativeDocumentMoniker": "JWT_OAuth_Demo\\appsettings.json",
+              "ToolTip": "C:\\Users\\Hieu\\Desktop\\JWT_OAuth_Demo\\JWT_OAuth_Demo\\appsettings.json",
+              "RelativeToolTip": "JWT_OAuth_Demo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-24T02:33:52.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\JWT_OAuth_Demo\\JWT_OAuth_Demo\\Program.cs",
+              "RelativeDocumentMoniker": "JWT_OAuth_Demo\\Program.cs",
+              "ToolTip": "C:\\Users\\Hieu\\Desktop\\JWT_OAuth_Demo\\JWT_OAuth_Demo\\Program.cs",
+              "RelativeToolTip": "JWT_OAuth_Demo\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAywCMAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T02:23:24.233Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 271,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
