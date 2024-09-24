@@ -1,0 +1,6 @@
+@WebSocketGRPCDemo_HostAddress = http://localhost:5136
+
+GET {{WebSocketGRPCDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

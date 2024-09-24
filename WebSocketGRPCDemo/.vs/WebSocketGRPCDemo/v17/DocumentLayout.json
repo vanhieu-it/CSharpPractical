@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\WebSocketGRPCDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31384BA5-119B-4A2B-82A7-04C5C94B1CCE}|WebSocketGRPCDemo\\WebSocketGRPCDemo.csproj|c:\\users\\hieu\\desktop\\csharplearning\\websocketgrpcdemo\\websocketgrpcdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{31384BA5-119B-4A2B-82A7-04C5C94B1CCE}|WebSocketGRPCDemo\\WebSocketGRPCDemo.csproj|solutionrelative:websocketgrpcdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31384BA5-119B-4A2B-82A7-04C5C94B1CCE}|WebSocketGRPCDemo\\WebSocketGRPCDemo.csproj|c:\\users\\hieu\\desktop\\csharplearning\\websocketgrpcdemo\\websocketgrpcdemo\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{31384BA5-119B-4A2B-82A7-04C5C94B1CCE}|WebSocketGRPCDemo\\WebSocketGRPCDemo.csproj|solutionrelative:websocketgrpcdemo\\protos\\greet.proto||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31384BA5-119B-4A2B-82A7-04C5C94B1CCE}|WebSocketGRPCDemo\\WebSocketGRPCDemo.csproj|c:\\users\\hieu\\desktop\\csharplearning\\websocketgrpcdemo\\websocketgrpcdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31384BA5-119B-4A2B-82A7-04C5C94B1CCE}|WebSocketGRPCDemo\\WebSocketGRPCDemo.csproj|solutionrelative:websocketgrpcdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31384BA5-119B-4A2B-82A7-04C5C94B1CCE}|WebSocketGRPCDemo\\WebSocketGRPCDemo.csproj|c:\\users\\hieu\\desktop\\csharplearning\\websocketgrpcdemo\\websocketgrpcdemo\\services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31384BA5-119B-4A2B-82A7-04C5C94B1CCE}|WebSocketGRPCDemo\\WebSocketGRPCDemo.csproj|solutionrelative:websocketgrpcdemo\\services\\greeterservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31384BA5-119B-4A2B-82A7-04C5C94B1CCE}|WebSocketGRPCDemo\\WebSocketGRPCDemo.csproj|c:\\users\\hieu\\desktop\\csharplearning\\websocketgrpcdemo\\websocketgrpcdemo\\websocketgrpcdemo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{31384BA5-119B-4A2B-82A7-04C5C94B1CCE}|WebSocketGRPCDemo\\WebSocketGRPCDemo.csproj|solutionrelative:websocketgrpcdemo\\websocketgrpcdemo.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 332,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\WebSocketGRPCDemo\\WebSocketGRPCDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "WebSocketGRPCDemo\\appsettings.json",
+              "ToolTip": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\WebSocketGRPCDemo\\WebSocketGRPCDemo\\appsettings.json",
+              "RelativeToolTip": "WebSocketGRPCDemo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-24T03:57:58.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GreeterService.cs",
+              "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\WebSocketGRPCDemo\\WebSocketGRPCDemo\\Services\\GreeterService.cs",
+              "RelativeDocumentMoniker": "WebSocketGRPCDemo\\Services\\GreeterService.cs",
+              "ToolTip": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\WebSocketGRPCDemo\\WebSocketGRPCDemo\\Services\\GreeterService.cs",
+              "RelativeToolTip": "WebSocketGRPCDemo\\Services\\GreeterService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T03:42:31.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "greet.proto",
+              "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\WebSocketGRPCDemo\\WebSocketGRPCDemo\\Protos\\greet.proto",
+              "RelativeDocumentMoniker": "WebSocketGRPCDemo\\Protos\\greet.proto",
+              "ToolTip": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\WebSocketGRPCDemo\\WebSocketGRPCDemo\\Protos\\greet.proto",
+              "RelativeToolTip": "WebSocketGRPCDemo\\Protos\\greet.proto",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003853|",
+              "WhenOpened": "2024-09-24T03:40:13.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WebSocketGRPCDemo",
+              "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\WebSocketGRPCDemo\\WebSocketGRPCDemo\\WebSocketGRPCDemo.csproj",
+              "RelativeDocumentMoniker": "WebSocketGRPCDemo\\WebSocketGRPCDemo.csproj",
+              "ToolTip": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\WebSocketGRPCDemo\\WebSocketGRPCDemo\\WebSocketGRPCDemo.csproj",
+              "RelativeToolTip": "WebSocketGRPCDemo\\WebSocketGRPCDemo.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-24T03:37:45.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\WebSocketGRPCDemo\\WebSocketGRPCDemo\\Program.cs",
+              "RelativeDocumentMoniker": "WebSocketGRPCDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\Hieu\\Desktop\\CSharpLearning\\WebSocketGRPCDemo\\WebSocketGRPCDemo\\Program.cs",
+              "RelativeToolTip": "WebSocketGRPCDemo\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAwwCoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T03:24:52.098Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 271,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
