@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OptimizedEFCoreApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ceff03fed34669144b6f4a280e6d64f2a1ef47e9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+328168535e9471cb05470fb8a07e8a74e95f06a0")]
 [assembly: System.Reflection.AssemblyProductAttribute("OptimizedEFCoreApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OptimizedEFCoreApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
