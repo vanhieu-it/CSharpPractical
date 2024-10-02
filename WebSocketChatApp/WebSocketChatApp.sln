@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSocketServer", "WebSocketServer\WebSocketServer.csproj", "{56B0030D-BE72-439B-9039-4A1BFF7F613A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebSocketClient", "WebSocketClient\WebSocketClient.csproj", "{86BA285D-8438-456B-BA85-65F0302BF16A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56B0030D-BE72-439B-9039-4A1BFF7F613A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56B0030D-BE72-439B-9039-4A1BFF7F613A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56B0030D-BE72-439B-9039-4A1BFF7F613A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56B0030D-BE72-439B-9039-4A1BFF7F613A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86BA285D-8438-456B-BA85-65F0302BF16A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86BA285D-8438-456B-BA85-65F0302BF16A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86BA285D-8438-456B-BA85-65F0302BF16A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86BA285D-8438-456B-BA85-65F0302BF16A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19C53D4E-D8C6-4CB3-AE71-38D4D31AAA18}
+	EndGlobalSection
+EndGlobal

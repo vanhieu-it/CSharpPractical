@@ -1,0 +1,14 @@
+C:\Users\Hieu\Desktop\WebSocketServer\WebSocketClient\bin\Debug\net6.0\WebSocketClient.exe
+C:\Users\Hieu\Desktop\WebSocketServer\WebSocketClient\bin\Debug\net6.0\WebSocketClient.deps.json
+C:\Users\Hieu\Desktop\WebSocketServer\WebSocketClient\bin\Debug\net6.0\WebSocketClient.runtimeconfig.json
+C:\Users\Hieu\Desktop\WebSocketServer\WebSocketClient\bin\Debug\net6.0\WebSocketClient.dll
+C:\Users\Hieu\Desktop\WebSocketServer\WebSocketClient\bin\Debug\net6.0\WebSocketClient.pdb
+C:\Users\Hieu\Desktop\WebSocketServer\WebSocketClient\obj\Debug\net6.0\WebSocketClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hieu\Desktop\WebSocketServer\WebSocketClient\obj\Debug\net6.0\WebSocketClient.AssemblyInfoInputs.cache
+C:\Users\Hieu\Desktop\WebSocketServer\WebSocketClient\obj\Debug\net6.0\WebSocketClient.AssemblyInfo.cs
+C:\Users\Hieu\Desktop\WebSocketServer\WebSocketClient\obj\Debug\net6.0\WebSocketClient.csproj.CoreCompileInputs.cache
+C:\Users\Hieu\Desktop\WebSocketServer\WebSocketClient\obj\Debug\net6.0\WebSocketClient.dll
+C:\Users\Hieu\Desktop\WebSocketServer\WebSocketClient\obj\Debug\net6.0\refint\WebSocketClient.dll
+C:\Users\Hieu\Desktop\WebSocketServer\WebSocketClient\obj\Debug\net6.0\WebSocketClient.pdb
+C:\Users\Hieu\Desktop\WebSocketServer\WebSocketClient\obj\Debug\net6.0\WebSocketClient.genruntimeconfig.cache
+C:\Users\Hieu\Desktop\WebSocketServer\WebSocketClient\obj\Debug\net6.0\ref\WebSocketClient.dll
